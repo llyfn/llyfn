@@ -21,4 +21,4 @@
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ## PS
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=llyfn)](https://solved.ac/llyfn)
+[![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=llyfn)](https://solved.ac/llyfn)
