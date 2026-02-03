@@ -19,6 +19,7 @@
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![go](https://img.shields.io/badge/go-%2300ADD8?&style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 ## PS
 [![solved.ac](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=llyfn)](https://solved.ac/llyfn)
